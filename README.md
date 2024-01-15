@@ -52,7 +52,7 @@ Veja nosso site adaptável em 🚩[Apeperia - Mobile first](https://apeperia-mob
 <br>
 
 
-### Oi, construtor de apps! 📱 Bem-vindo ao 'Estúdio Code', onde cada linha de código é a base para o sucesso do seu aplicativo! Se curtiu, dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos criar juntos! 🚀💻 #CodeAppStudio
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFAF0&height=100&section=footer" alt="Waving Capsule Render">
 
